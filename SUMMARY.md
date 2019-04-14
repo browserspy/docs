@@ -1,4 +1,4 @@
 # Table of contents
 
-* [What is BrowserSpy/](README.md)
+* [What is BrowserSpy?](README.md)
 
