@@ -44,3 +44,33 @@ Once your email address is confirmed, then the "email address not confirmed" mod
 
 ![](.gitbook/assets/new-projects-browserspy.png)
 
+## Create "+ NEW PROJECT"
+
+You can now click on the "+ NEW PROJECT" button
+
+![](.gitbook/assets/new-project-browserspy-beta.png)
+
+Enter details specific to your project and click the "SUBMIT" button
+
+The Project URL is the result of `location.hostname` which means using the URL without `HTTP://` or `HTTPS://` and without Port Numbers e.g. `:8080` 
+
+This is used to identify your instance of the BrowserSpy Recorder together with the Project Token 
+
+![](.gitbook/assets/new-project-details-browserspy-beta.png)
+
+You should now see the four main tabs for administering your BrowserSpy Project
+
+![](.gitbook/assets/no-issues-browserspy-beta.png)
+
+## Installation of BrowserSpy
+
+Click the "INSTALLATION" tab and try the JavaScript option to begin with, as this will allow you to test very simply on your local machine
+
+Once you have copied the JavaScript code into your application, refresh your browser and you should see the BrowserSpy toolbar on your web page.
+
+![](.gitbook/assets/installation-tab-browserspy-beta.png)
+
+![The JavaScript copied into your Application Code](.gitbook/assets/code-snippet.png)
+
+
+
