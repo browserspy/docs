@@ -62,7 +62,7 @@ You should now see the four main tabs for administering your BrowserSpy Project
 
 ![](.gitbook/assets/no-issues-browserspy-beta.png)
 
-## Installation of BrowserSpy
+## Installation of BrowserSpy \(JavaScript\)
 
 Click the "INSTALLATION" tab and try the JavaScript option to begin with, as this will allow you to test very simply on your local machine
 
@@ -72,5 +72,11 @@ Once you have copied the JavaScript code into your application, refresh your bro
 
 ![The JavaScript copied into your Application Code](.gitbook/assets/code-snippet.png)
 
+Now visit your Project URL, and you should see the magnificent BrowserSpy Control Panel displayed on your site
 
+![](.gitbook/assets/browserspy-demo-page-following-installation.png)
+
+There are two additional BrowserSpy installation options which you can use \([CommonJS](commonjs-installation.md) & [Docker/Kubernetes](docker-kubernetes-installation.md)\) for which a walkthroughs are provided
+
+But first let's go and run through our first Test Case, record it with BrowserSpy and log our first issue
 
